@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb6b963fca6e0a0f86fb7d1d9d18b70202f76c5f">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7abbc712be9972ae8366eeaddbd4272a20c88265/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_3511e62e132c99ed89827b698e2d4fe8fa676d6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69e134508cea60e21eda1226c787bf1670ffaeae">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1db07aebd190801117898e0c2df6f6b90f8e60fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_00e011f8fe38751f5d7b576f1464365ecd5cf570/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0e59eb463bb02aab8f4cfad6e2ae95b9e43e2815/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_171d23a5c20b09e4beb312d41ce99deb8cc2b535/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_4a6d4071d43831db56044e9a10f7a39a5c51abc6/classes.dex" />
+    </item>
+    <item
+        jar="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/yang/Desktop/Android/BeerAdviser/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_430f1d668a8b83a82db0a22f97fd590ca12916ab/classes.dex" />
+    </item>
+
+</items>
