@@ -17,7 +17,8 @@
 
         <activity
             android:name=".ReceiveMessageActivity"
-            android:label="@string/title_activity_receive_message"></activity>
+            android:label="@string/title_activity_receive_message">
+        </activity>
     </application>
 
 </manifest>
